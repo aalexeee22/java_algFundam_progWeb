@@ -1,0 +1,12 @@
+.problema{
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 4em;
+}
+.example{
+    border: 1px solid black; /* Creează un chenar negru */
+    padding: 0 1em 0 1em ;
+    display: inline-block; /* Ajustează lățimea div-ului la conținut */
+    white-space: pre-wrap;
+
+}
